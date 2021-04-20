@@ -14,7 +14,8 @@ Submission Aplikasi Back-End untuk Pemula DICODING
   
    5.API dapat menghapus buku
    
-   Extra fitur : *Query parameters pada route GET /books
+   Extra fitur : 
+                 *Query parameters pada route GET /books
    
                  *Menerapkan CORS pada seluruh resource yang ada.
                  
