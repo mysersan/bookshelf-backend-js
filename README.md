@@ -2,9 +2,13 @@
 
 Submission Aplikasi Back-End untuk Pemula DICODING
 
-    *Istilah back-end, front-end, server, client, web service, REST API serta belajar cara berkomunikasi antara client dengan server menggunakan cURL.
-    *Dasar-dasar Node.js dalam pengembangan Back-End seperti global object, process, modularization, event, dan yang lainnya.
-    *Membangun web server menggunakan Node.js native maupun Hapi Framework.
-    *RESTful API sederhana yang mendukung fungsionalitas aplikasi catatan.
-    *Pengujian RESTful API secara otomatis menggunakan Postman.
+   Kriteria Bookshelf API
+   Kriteria 1 : API dapat menyimpan buku
+   Kriteria 2 : API dapat menampilkan seluruh buku
+   Kriteria 3 : API dapat menampilkan detail buku
+   Kriteria 4 : API dapat mengubah data buku
+   Kriteria 5 : API dapat menghapus buku
+   Extra fitur : Query parameters pada route GET /books
+                 Menerapkan CORS pada seluruh resource yang ada.
+                 Menggunakan ESLint dan salah satu style guide agar gaya penulisan kode JavaScript lebih konsisten.
 
